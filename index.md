@@ -43,6 +43,6 @@ Scott - Developer / Moderator
 
 Due to the fact that all of the rules are enforced differently, there are different consequences. You will almost always start off with a warning, unless you do something really bad. If you disobey orders given from high ranked staff (e.g. Ember and/or Dreamer), you will *probably* be kicked from the tribe. Please contact a staff member, if you have any questions.
 
-## Conclusion
+### Conclusion
 
 Thanks for making it this far! If you have any questions, please feel free to ask Ember, Dreamer, or Scott in the discord chat. Don't have Discord? Click the link at the top of the page to the tribe chat and/or send us a message on the server (in tribe chat, please). If you contact us on Steam, we will not know who you are. Once again, thanks for reading this entire page! Enjoy playing :)
