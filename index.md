@@ -39,6 +39,8 @@ Scott - Developer / Moderator
 
 12) Bring a spyglass with you at all times, and if you don't have a spyglass make one. Don't know how to make one, or don't have enough engram points to unlock it, ask Dreamer, Ember, or Scott. Just please bring a spyglass, because it gets really annoying when we have to lend our spyglasses and stop what we are doing.
 
+13) If you need something made and you can't make it, or you don't have a blueprint, then please ask. 
+
 ### Consequences
 
 Due to the fact that all of the rules are enforced differently, there are different consequences. You will almost always start off with a warning, unless you do something really bad. If you disobey orders given from high ranked staff (e.g. Ember and/or Dreamer), you will *probably* be kicked from the tribe. Please contact a staff member, if you have any questions.
