@@ -8,7 +8,7 @@ Please understand that we use Discord for communication, so join our chat by [cl
 
 1) Bring a spyglass with you at all times, and if you don't have a spyglass make one. Don't know how to make one, or don't have enough engram points to unlock it, ask Dreamer, Ember, or Scott. Just please bring a spyglass, because it gets really annoying when we have to lend our spyglasses and stop what we are doing.
 
-2) If you need something made and you can't make it, or you don't have a blueprint, then please ask. \
+2) If you need something made and you can't make it, or you don't have a blueprint, then please ask.
 
 3) Vaults and Bases that are locked, unaccessable to the regular tribe member, are only to keep things safe. We don't do that to horde all of the good stuff for ourselves, so if you ever need something ask!
 
