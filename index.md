@@ -19,7 +19,7 @@ Scott - Developer / Moderator
 
 4) Do not go around killing players' dinosaurs, raiding, or killing players - We don't want to be raided, because of something that you did.
 
-5) No stealing - This is self-explanatory
+5) No stealing of your own tribe mates- This is self-explanatory
 
 6) No breeding any tames without permission from Dreamer, Ember, or the person's tame you are breeding with.
 
