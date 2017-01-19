@@ -14,6 +14,8 @@ Please understand that we use Discord for communication, so join our chat by [cl
 
 4) All members, new or past, are not allowed to build anymore bases. We have reached the server limit of three, and we ask that you don't build without talking to Ember first.
 
+5) Please try to tame dinosaurs over level one hundred (100), if possible. All dinosaurs over one hundred (100) **must** be added to the Google Spreadsheet. If you are unable/don't wish to update the spreadsheet, then please tell Ember, Dreamer, or Scott. [Click here](https://docs.google.com/spreadsheets/d/1K3qWOMzMR2gh14w_26vfcTmlIenON87lT7LqfCHUqTA/edit#gid=0) to access the SnowStorm Breeding List.
+
 ### Staff
 Dreamer - Founder / Owner
 Ember - Owner
