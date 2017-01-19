@@ -1,8 +1,8 @@
 
 <p align="center">
-<h6>
+<h1>
 Welcome to the SnowStorm Page
-</h6>
+</h1>
 </p>
 
 ### Staff
