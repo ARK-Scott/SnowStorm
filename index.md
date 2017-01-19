@@ -4,7 +4,9 @@
 
 ### Staff
 Dreamer - Founder / Owner
+
 Ember - Owner
+
 Scott - Developer / Moderator
 
 ### Discord
