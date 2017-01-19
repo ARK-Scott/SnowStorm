@@ -2,7 +2,7 @@
 
 
 ### Discord
-If you wish to join the tribe discord chat, please [click here](https://discord.gg/g9z5tXm). Discord does not require you to have a microphone.
+Please understand that we use Discord for communication, so join our chat by [clicking here](https://discord.gg/g9z5tXm). Discord does not require you to have a microphone.
 
 ### Friendly Reminders
 
