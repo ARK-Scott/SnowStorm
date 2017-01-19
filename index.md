@@ -12,7 +12,7 @@ Scott - Developer / Moderator
 
 1) Respect Ember and Dreamer - If they tell you to do something, then do it.
 
-\n2) Respect fellow tribe members - This includes dinosaurs and personal items. Don't be rude and paint innapropriate things on people.
+2) Respect fellow tribe members - This includes dinosaurs and personal items. Don't be rude and paint innapropriate things on people.
 
 3) Follow the server rules. We will not be punished for your mistakes, so read the rules. [Click me](http://rehabgaming-usa.enjin.com/arkrules) for the server rules.
 
