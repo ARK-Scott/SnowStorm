@@ -29,7 +29,7 @@ Scott - Developer / Moderator
   
 8) Do not use anyother player's dinosaur without permission from the owner.
 
-  If you by accidentally kill another player's dinosaur, then you have to replace it.
+  If you by accidentally kill another player's dinosaur, then you have to replace it (at the level it died at).
   
 9) Do not demolish stuff that isn't yours - this applies to ranks that have permission to demolish things.
 
