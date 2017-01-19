@@ -1,4 +1,5 @@
-## Welcome to the SnowStorm Tribe
+## Welcome to the SnowStorm Page
+
 
 ### Discord
 If you wish to join the tribe discord chat, please [click here](https://discord.gg/g9z5tXm). Discord does not require you to have a microphone.
