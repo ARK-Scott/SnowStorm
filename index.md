@@ -1,7 +1,7 @@
-
+<script src="https://gist.github.com/jonschlinkert/5854601.js"></script>
 <p align="center">
 <h1>
-          Welcome to the SnowStorm Page
+Welcome to the SnowStorm Page
 </h1>
 </p>
 
