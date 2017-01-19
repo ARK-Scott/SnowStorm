@@ -1,5 +1,7 @@
 
-<p align="center"> ## Welcome to the SnowStorm Page </p>
+<p align="center">
+Welcome to the SnowStorm Page
+</p>
 
 ### Staff
 Dreamer - Founder / Owner
@@ -17,7 +19,7 @@ Please understand that we use Discord for communication, so join our chat by [cl
 
 3) Vaults and Bases that are locked, unaccessable to the regular tribe member, are only to keep things safe. We don't do that to horde all of the good stuff for ourselves, so if you ever need something ask!
 
-4) All members, new or past, are not allowed to build anymore bases. We have reached the server limit of three, and we ask that you don't build without talking to Ember first.
+4) All members, new or past, are not allowed to build anymore bases. We have reached the server limit of three, and we ask that you don't build without talking to Ember first. (Failure to comply with this will result in a staff member coming and destroying the base).
 
 5) Please try to tame dinosaurs over level one hundred (100), if possible. All dinosaurs over one hundred (100) **must** be added to the Google Spreadsheet. If you are unable/don't wish to update the spreadsheet, then please tell Ember, Dreamer, or Scott. [Click here](https://docs.google.com/spreadsheets/d/1K3qWOMzMR2gh14w_26vfcTmlIenON87lT7LqfCHUqTA/edit#gid=0) to access the SnowStorm Breeding List.
 
