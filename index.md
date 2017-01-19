@@ -12,6 +12,8 @@ Please understand that we use Discord for communication, so join our chat by [cl
 
 3) Vaults and Bases that are locked, unaccessable to the regular tribe member, are only to keep things safe. We don't do that to horde all of the good stuff for ourselves, so if you ever need something ask!
 
+4) All members, new or past, are not allowed to build anymore bases. We have reached the server limit of three, and we ask that you don't build without talking to Ember first.
+
 ### Staff
 Dreamer - Founder / Owner
 Ember - Owner
@@ -37,7 +39,7 @@ Scott - Developer / Moderator
   
 8) Do not use anyother player's dinosaur without permission from the owner.
 
-  If you by accidentally kill another player's dinosaur, then you have to replace it (at the level it died at).
+  If you by accidentally kill another player's dinosaur, then you have to replace it (at the level it was tamed).
   
 9) Do not demolish stuff that isn't yours - this applies to ranks that have permission to demolish things.
 
